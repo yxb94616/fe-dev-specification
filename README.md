@@ -120,5 +120,5 @@ src `该目录所有资源都会被编译打包`
 3. v-viewer （图片查看器）
 4. vue-lazyload （图片懒加载）
 5. vxe-table （表格）
-6. xe-utils （工具库，vxe-table 正好也需要依赖这个库）
+6. xe-utils （工具库，vxe-table 正好也需要依赖这个库）  
 欢迎补充实用的、稳定的、好用的Vue插件
