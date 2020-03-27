@@ -21,3 +21,7 @@
 3. Prettier - Code formatter
 4. GitLens
 5. Live Server
+
+## 规范
+1. [编码规范](https://github.com/yxb94616/fe-dev-specification/blob/master/coding.md "编码规范")
+2. [git提交规范](https://github.com/yxb94616/fe-dev-specification/blob/master/commit.md "git提交规范")
