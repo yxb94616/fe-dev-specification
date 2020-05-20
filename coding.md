@@ -67,6 +67,7 @@
 5. 默认 hash 路由
 6. 建议选择 css 预处理器为 Sass/SCSS (with dart-sass)
 7. 建议语法规则和代码风格的检查使用 ESLint + Prettier
+8. sass或less的深度作用选择器，/deep/在谷歌浏览器会报警告，请使用::v-deep [官方说明](https://vue-loader.vuejs.org/zh/guide/scoped-css.html#%E6%B7%B1%E5%BA%A6%E4%BD%9C%E7%94%A8%E9%80%89%E6%8B%A9%E5%99%A8 "官方说明") 
 
 ### 2、修改目录如下
 
